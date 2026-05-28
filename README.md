@@ -17,7 +17,6 @@ Our multi-core scaling experiments systematically expose the architectural limit
 
 <img width="1007" height="440" alt="image" src="https://github.com/user-attachments/assets/163811dd-db59-4570-9f3d-e69c49a7f987" />
 
-*Fig 7: Aggregated throughput comparison under increasing thread contention. While the Wasm bare-metal C API collapses after 8 threads (peaking at 812 MT/s) due to severe isolation overhead, SPNED safely shares verified machine code to achieve a massive **2674.74 MT/s at 64 threads**.*
 
 ### Architectural Highlights
 - **Mathematical Bound Safety:** The pure C++ abstract interpretation verification guarantees $100\%$ structural safety and $\mathcal{O}(N)$ termination with a negligible **0.478 microseconds** planning latency.
