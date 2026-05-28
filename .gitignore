@@ -1,0 +1,14 @@
+# 绝对禁止追踪的 SPNED 核心资产
+*verifier*
+*real_interval*
+*exp2*
+*exp3*
+*exp4*
+*.pdf
+
+# 忽略运行时编译产物和 Python 缓存
+__pycache__/
+*.pyc
+*.o
+*.wasm
+exp1_native

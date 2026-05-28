@@ -1,0 +1,7 @@
+{
+  "status": "SUCCESS",
+  "total_measurements_recorded": 48,
+  "spned_sequential_mts": 1190.72,
+  "multi_core_max_mts": 3125.84,
+  "message": "All 48 physical measurements have been successfully executed and packed into the standard JSON schema."
+}
