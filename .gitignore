@@ -2,13 +2,14 @@
 *verifier*
 *real_interval*
 *exp2*
-*exp3*
-*exp4*
 *.pdf
+wasmtime-*
 
-# 忽略运行时编译产物和 Python 缓存
+# 忽略编译产物和缓存
 __pycache__/
 *.pyc
 *.o
+*.obj
+*.exe
 *.wasm
-exp1_native
+.DS_Store
