@@ -41,7 +41,7 @@ Designed for distributed systems researchers targeting top-tier conferences and 
 
 To support the ongoing research in distributed systems and acquire full repository access:
 
-* **International (USD):** Sponsor **$150** via PayPal directly to `[您的PayPal注册邮箱]`. *(Please include your GitHub Username in the transaction note).*
-* **Domestic (CNY):** [Insert your Afdian/Xianyu Link] - ¥999
+* **International (USD):** Sponsor **$150** via PayPal directly to `https://github.com/creativitysurvey/SPNED-Preview/issues/2`. *(Please include your GitHub Username in the transaction note).*
+* **Domestic (CNY):** https://github.com/creativitysurvey/SPNED-Preview/issues/1 - ¥999
 
 Upon completing the sponsorship, you will receive a direct collaborator invitation to the private `SPNED-Core-Pro` repository within 12 hours.
