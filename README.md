@@ -48,4 +48,4 @@ To support the ongoing research in distributed systems and acquire full reposito
 * **International (USD):** https://github.com/creativitysurvey/SPNED-Preview/issues/2 - $150
 * **Domestic (CNY):** https://github.com/creativitysurvey/SPNED-Preview/issues/1 - ¥999
 
-Upon completing the sponsorship, you will receive a direct collaborator invitation to the private `SPNED-Core-Pro` repository within 12 hours.
+Email to prof.liwei@gmail.com after your payment. Upon completing the sponsorship, you will receive a direct collaborator invitation to the private `SPNED-Core-Pro` repository within 12 hours.
