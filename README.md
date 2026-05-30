@@ -1,4 +1,5 @@
-<img width="1007" height="440" alt="image" src="https://github.com/user-attachments/assets/163811dd-db59-4570-9f3d-e69c49a7f987" />
+<img width="1007" height="440" alt="image" src="https://github.com/creativitysurvey/SPNED-Preview/blob/main/cover.png" />
+
 
 # 🚀 SPNED: Static-Proof Native Execution of Decoders
 
@@ -12,7 +13,7 @@
 
 Our multi-core scaling experiments and physical measurements systematically expose the architectural limitations of WebAssembly sandboxes in memory-intensive ingestion pipelines.
 
-<img width="1007" height="440" alt="image" src="https://github.com/user-attachments/assets/163811dd-db59-4570-9f3d-e69c49a7f987" />
+<img width="1007" height="440" alt="image" src="https://github.com/creativitysurvey/SPNED-Preview/blob/main/cover.png" />
 
 ### Architectural Highlights
 - **Mathematical Bound Safety:** The pure C++ abstract interpretation verification guarantees 100% structural safety and O(N) termination with a negligible **0.683 microseconds** planning latency for fundamental operators.
